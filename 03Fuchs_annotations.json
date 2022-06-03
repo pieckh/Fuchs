@@ -1,0 +1,48 @@
+{
+    "@context":"http://iiif.io/api/presentation/2/context.json",
+    "@id":"https://pieckh.github.io/Fuchs.Kreuterbuch/annotations/03Fuchs_annotations.json",
+    "@type":"sc:AnnotationList",
+    "resources":[
+        {
+    "@type":"oa:Annotation",
+    "@id": "37716210e32711ecacd4b745a25e0983",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Für diese Illustrationen hatte Fuchs auf eigene Kosten drei hochrangige Künstler engagiert, die sogar selbst im Buch abgebildet sind:"
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S889/canvas/c0#xywh=-2140.6000000000004,0,6827.200000000001,4267"
+},{
+    "@type":"oa:Annotation",
+    "@id": "4cfcfa40e32711ecacd4b745a25e0983",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Der Maler Albrecht Meyer wird gezeigt, wie er gerade eine vor ihm stehende Pflanze abzeichnet."
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S889/canvas/c0#xywh=606.0359769501258,24.1766314971281,3292.4382716049395,2057.773919753087"
+},{
+    "@type":"oa:Annotation",
+    "@id": "78677ac0e32711ecacd4b745a25e0983",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Heinrich Füllmaurer überträgt eine solche gezeichnete Vorlage auf den späteren Bildstock. Man sieht das Blatt Papier mit der Zeichnung und eine Holzplatte in seiner linken Hand."
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S889/canvas/c0#xywh=-645.0905662597526,32.40772717614145,3292.4382716049395,2057.773919753087"
+},{
+    "@type":"oa:Annotation",
+    "@id": "a1994950e32711ecacd4b745a25e0983",
+    "motivation":"sc:painting",
+    "resource":{
+       "@type":"cnt:ContentAsText",
+       "format":"text/plain",
+       "chars":"Aus dieser Holzplatte fertigte im Anschluss Veit Rudolf Speckle, einer der bedeutendsten Formschneider der Zeit, den Bildstock, von dem im Druckverfahren die Holzschnitte vervielfältigt wurden. Das Kreüterbuch ist damit eine Gemeinschaftsarbeit von Gelehrten, Künstlern und Handwerkern."
+    },
+    "on":"https://pieckh.github.io/Fuchs.Kreuterbuch/images/S889/canvas/c0#xywh=-3.065103296787517,2096.354968688485,3292.4382716049395,2057.773919753087"
+}
+    ]
+ }
