@@ -54,7 +54,7 @@
                ],
                "otherContent":[
                   {
-                     "@id":"https://pieckh.github.io/Fuchs.Kreuterbuch/annotations/01Fuchs_annotations.json",
+                     "@id":"https://pieckh.github.io/Fuchs/01Fuchs_annotations.json",
                      "@type":"sc:AnnotationList"
                   }
                ]
@@ -90,7 +90,7 @@
                ],
                "otherContent":[
                   {
-                     "@id":"https://pieckh.github.io/Fuchs.Kreuterbuch/annotations/02Fuchs_annotations.json",
+                     "@id":"https://pieckh.github.io/Fuchs/02Fuchs_annotations.json",
                      "@type":"sc:AnnotationList"
                   }
                ]
