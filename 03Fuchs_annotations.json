@@ -1,6 +1,6 @@
 {
     "@context":"http://iiif.io/api/presentation/2/context.json",
-    "@id":"https://pieckh.github.io/Fuchs.Kreuterbuch/annotations/03Fuchs_annotations.json",
+    "@id":"https://pieckh.github.io/Fuchs/03Fuchs_annotations.json",
     "@type":"sc:AnnotationList",
     "resources":[
         {
